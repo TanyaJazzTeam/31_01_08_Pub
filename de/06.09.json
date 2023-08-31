@@ -4,6 +4,9 @@
       "name": "Mechanik",
       "sections": [
         {
+          "name": "Kinematics",
+          "interest": "Großartig",
+          "bool": "WAHR"
         },
         {
           "complexity": "4"
