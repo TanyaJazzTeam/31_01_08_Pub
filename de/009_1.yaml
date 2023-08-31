@@ -7,12 +7,12 @@ my:
       - sugar
       - Mehl
       cream:
-      - 
+      - Zucker
       - Milch
     dough:
+    - Eier
     - 
-    - 
-    - 
+    - Mehl
     cream:
     - 
-    - 
+    - Milch
