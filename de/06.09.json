@@ -1,0 +1,26 @@
+{
+  "physics": [
+    {
+      "name": "Mechanik",
+      "sections": [
+        {
+        },
+        {
+          "complexity": "4"
+        }
+      ]
+    },
+    {
+      "useful links": [
+        {
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+        }
+      ]
+    }
+  ]
+}
