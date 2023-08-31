@@ -3,11 +3,11 @@ my:
   cake:
     composition:
       dough:
-      - huevos
+      - huevos r
       - sugar
       - flour
       cream:
-      - azúcar
+      - azúcar r
       - milk
     dough:
     - huevos
