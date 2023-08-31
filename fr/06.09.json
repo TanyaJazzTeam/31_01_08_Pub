@@ -5,9 +5,12 @@
       "sections": [
         {
           "name": "Cinématique",
-          "interest": "super"
+          "complexity": "moyenne",
+          "interest": "super",
+          "bool": "vrai"
         },
         {
+          "name": "Hydrodynamics",
           "complexity": "4",
           "interest": "3"
         }
