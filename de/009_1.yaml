@@ -4,11 +4,11 @@ my:
     composition:
       dough:
       - Eier
-      - 
-      - 
+      - sugar
+      - Mehl
       cream:
       - 
-      - 
+      - Milch
     dough:
     - 
     - 
