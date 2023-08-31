@@ -4,22 +4,28 @@
       "name": "Mécanique",
       "sections": [
         {
+          "name": "Cinématique",
+          "interest": "super"
         },
         {
+          "complexity": "4",
           "interest": "3"
         }
       ]
     },
     {
+      "note": "ajout",
       "useful links": [
         {
         }
       ]
     },
     {
+      "name": "Électricité",
       "sections": [
         {
-          "name": "électrostatique"
+          "name": "électrostatique",
+          "complexity": "quatre"
         }
       ]
     }
