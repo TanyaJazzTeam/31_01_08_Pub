@@ -1,0 +1,27 @@
+{
+  "physics": [
+    {
+      "name": "Mécanique",
+      "sections": [
+        {
+        },
+        {
+          "interest": "3"
+        }
+      ]
+    },
+    {
+      "useful links": [
+        {
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "name": "électrostatique"
+        }
+      ]
+    }
+  ]
+}
