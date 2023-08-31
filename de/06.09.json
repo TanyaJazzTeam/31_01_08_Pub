@@ -5,11 +5,13 @@
       "sections": [
         {
           "name": "Kinematics",
+          "complexity": "average",
           "interest": "Großartig",
           "bool": "WAHR"
         },
         {
-          "complexity": "4"
+          "complexity": "4",
+          "interest": "3"
         }
       ]
     },
@@ -22,6 +24,7 @@
     {
       "sections": [
         {
+          "name": "Elektrostatik"
         }
       ]
     }
