@@ -1,0 +1,27 @@
+{
+  "physics": [
+    {
+      "name": "Mechanics",
+      "sections": [
+        {
+          "interest": "great",
+          "bool": true
+        },
+        {
+        }
+      ]
+    },
+    {
+      "useful links": [
+        {
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+        }
+      ]
+    }
+  ]
+}
